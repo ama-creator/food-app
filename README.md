@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+https://food-app-livid-zeta.vercel.app/cart
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
